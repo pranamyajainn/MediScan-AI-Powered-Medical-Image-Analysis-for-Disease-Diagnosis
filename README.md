@@ -1,6 +1,5 @@
 MediScan-AI-Powered-Medical-Image-Analysis-for-Disease-Diagnosis
-
-
+----------------------------------------------------------------------------
 
 MediScan is an advanced AI-powered system designed to revolutionize the field of medical image analysis.
 Its primary focus is on enabling accurate detection, early diagnosis, and automated interpretation of eye diseases.
