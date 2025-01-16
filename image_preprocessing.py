@@ -7,7 +7,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import joblib
 
-# Path to the image
 image_path = "/Users/pranamyajain/vscode/MediScan-AI-Powered-Medical-Image-Analysis-for-Disease-Diagnosis/mediscan/data/raw/gaussian_filtered_images/gaussian_filtered_images/gaussian_filtered_images/Mild/0a61bddab956.png"
 
 # Load the image using OpenCV
