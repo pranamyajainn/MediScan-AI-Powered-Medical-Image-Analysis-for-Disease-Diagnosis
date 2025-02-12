@@ -15,7 +15,7 @@ image = cv2.imread(image_path)
 if image is None:
     print("Error: Image not found. Please check the image path.")
 else:
-    # Convert the image from BGR to RGB
+    # Convert image from BGR to RGB
     image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
     # Display the original image
