@@ -1,4 +1,4 @@
-MediScan-AI-Powered-Medical-Image-Analysis-for-Disease-Diagnosis
+MediScan AI Powered Medical-Image-Analysis-for-Disease-Diagnosis
 
 
 
