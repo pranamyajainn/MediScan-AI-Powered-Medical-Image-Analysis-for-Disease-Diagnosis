@@ -1,4 +1,4 @@
-# Medical Image Feature Extraction and Classification
+# Medical Image Analysis for Eye Disease Diagnosis 
 
 This script performs medical image processing to extract texture, shape, and color features, and then uses a Random Forest Classifier to train a model.
 
